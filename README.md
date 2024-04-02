@@ -1,4 +1,4 @@
 # screenshots
 
-![Screenshot_1711632202](https://github.com/bekir7/Weather-App2/assets/49992321/9933666d-8901-430e-8a1c-8f94a1c2e34c)
-![Screenshot_1711632196](https://github.com/bekir7/Weather-App2/assets/49992321/31571d3c-b516-4992-ab93-90500ce82b98)
+![Screenshot_1712079461](https://github.com/bekir7/Weather-App2/assets/49992321/79c1708f-86f2-4dd1-b842-9255a9d68bd7)
+![Screenshot_1712079458](https://github.com/bekir7/Weather-App2/assets/49992321/91708d9e-1fd3-4053-b69b-9dfbafa4adae)
